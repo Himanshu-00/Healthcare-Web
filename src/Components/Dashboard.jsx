@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react';
-import {fetchAppointmentDetails} from '../utilities/Utility';
+import {fetchAppointmentDetails} from '../utilities/utility';
 import { auth} from "../firebaseConfig";
 import { onAuthStateChanged, signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
