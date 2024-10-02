@@ -1,0 +1,29 @@
+h3 {
+    padding: 10px 0 10px 0;
+    font-size: 20px !important;
+    color: #004D4D;
+    font-family:monospace;
+}
+
+li {
+    color: #004D4D;
+}
+
+@media print {
+  body {
+    font-size: 16px; 
+  }
+}
+
+
+/* Hide scrollbar for WebKit browsers */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+  
+  /* Hide scrollbar for Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  
