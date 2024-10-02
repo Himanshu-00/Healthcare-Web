@@ -19,7 +19,7 @@ HealthCare_Web is a modern healthcare application developed with React and Vite.
 - **Firebase**: Cloud-based backend services for authentication, database management, and storage solutions.
 - **Tailwind CSS**: A utility-first CSS framework for creating responsive and visually appealing designs.
 - **JavaScript (ES6+)**: Utilized for implementing application logic and functionality.
-- **Docker & Docker Compose**: Ensures a consistent development and production environment through containerization.
+- **Docker**: Ensures a consistent development and production environment through containerization.
 
 
 ## Project Structure
