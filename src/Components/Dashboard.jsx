@@ -4,7 +4,7 @@ import { auth} from "../firebaseConfig";
 import { onAuthStateChanged, signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import HomeView from './HomeView';
-import Message from './MessageView'
+// import Message from './MessageView'
 import Profle from './ProfileView'
 import CircularCalendar, { calculateTimeRemaining } from './calendar';
 import axios from "axios";
